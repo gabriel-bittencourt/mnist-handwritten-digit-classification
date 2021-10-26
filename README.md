@@ -4,9 +4,11 @@ Handwritten digits classification using a Neural Network in Python .
 
 ## MNIST Dataset
 
-The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) contains 60,000 images for training, and 10,000 images for testing.
-The images are 28x28 pixels and grayscale.
+The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) contains 60,000 images for training, and 10,000 images for testing. The images are 28x28 pixels and grayscale.  
 Each sample consists in 785 values, where the first values is the label and the remaining are the pixel values.
+
+[This dataset](https://pjreddie.com/projects/mnist-in-csv/) in csv format was used for training the network and evaluating the score.  
+It achieved 98.15% of accuracy on test set.
 
 ## Requirements
 
