@@ -8,7 +8,7 @@ The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) contains 60,000 images fo
 Each sample consists in 785 values, where the first values is the label and the remaining are the pixel values.
 
 [This dataset](https://pjreddie.com/projects/mnist-in-csv/) in csv format was used for training the network and evaluating the score.  
-It achieved 98.15% of accuracy on test set.
+It achieved 94.88% of accuracy on test set.
 
 ## Requirements
 
